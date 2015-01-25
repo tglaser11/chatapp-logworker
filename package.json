@@ -1,0 +1,12 @@
+{
+  "name": "ChatWorkers",
+  "version": "0.0.0",
+  "dependencies": {
+    "amqp": "0.2.0",
+    "q": "1.0.1" 
+  },
+  "devDependencies": {},
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
